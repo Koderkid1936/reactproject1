@@ -15,7 +15,7 @@ function HeroSection() {
           buttonStyle='btn--outline'
           buttonSize='btn--huge'
         >
-          Hire Front End Engineer
+          Hire Front End Engineer a
         </Button>
       </div>
     </div>

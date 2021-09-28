@@ -50,7 +50,7 @@
 
 .btn--huge:hover {
   transition: all 0.5s ease-out;
-  background: rgb(198, 100, 207);
+  background: var(--secondary);
   color: #ffffff;
   transition: 850ms;
 }
